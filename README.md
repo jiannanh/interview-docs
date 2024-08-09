@@ -6,7 +6,7 @@ https://www.acwing.com/user/payment/order/index/
 按照类型（不一定按照下面这个GitHub的题，这个GitHub的题相对比较难也不是都是高频），每种类型按照频率刷题，多少看你的准备时间，不懂的可以YouTube找到这个人，讲的非常好
 https://github.com/wisdompeak/LeetCode
 
-公司列表及流程记录所有的申请信息在同文件夹
+公司列表及流程记录所有的申请信息在同文件夹 **公司列表及流程_Ruizhao.xlsx**
 
 非NG可能需要考到系统设计
 https://www.1point3acres.com/bbs/thread-559285-1-1.html
